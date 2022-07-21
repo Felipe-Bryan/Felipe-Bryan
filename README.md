@@ -5,6 +5,7 @@
 
 - Explorando novas tecnologias e estudando para ser desenvolvedor Full Stack.<br>
 - Estudando Web Developer Full Stack na <a href="https://www.growdev.com.br/">Growdev</a>.<br>
+- Atualmente estudando HTML e CSS, Módulo Front-End
 - Aprendendo no momento mais sobre Front-End: HTML, CSS e JavaScript.<br>
 - Tenho como hobby assistir séries e ler conteúdos sobre programação <br>
 - Não tenho experiência profissional na área de tecnolgoia ainda, mas tenho bastante experiência com vendas. </br>

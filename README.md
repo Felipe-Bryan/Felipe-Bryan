@@ -9,7 +9,7 @@
 - In my free time I like to watch to series and read about programming <br>
 - I don't have professional experience in the technology area yet, but I have a lot of experience with sales <br>
 
-<h3>:rocket: &nbsp;My training skills</h3>
+<h3>:rocket: &nbsp;My "in training" skills</h3>
 
 **Application and Data**
 

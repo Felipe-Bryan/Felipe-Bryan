@@ -6,7 +6,7 @@
 - Exploring new techs and learning to be a Full Stack Web Developer<br>
 - Studying Web Developer Full Stack at <a href="https://www.growdev.com.br/">Growdev</a>
 - Now learning about Front-End developing: HTML, CSS and JavaScript.<br>
-- My free time I like to watch to series and read about programming <br>
+- In my free time I like to watch to series and read about programming <br>
 - I don't have professional experience in the technology area yet, but I have a lot of experience with sales <br>
 
 <h3>:rocket: &nbsp;My training skills</h3>

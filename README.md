@@ -51,3 +51,4 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a> [![GitHub SEU NOME]( https://img.shields.io/github/followers/felipe-bryan?label=follow&style=social)](https://github.com/Felipe-Bryan) <a href="https://www.facebook.com/felipe.bryan" alt="Facebook"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Bryan&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-Bryan&theme=tokyonight">

@@ -3,7 +3,7 @@
 <h3>Hello I'm Felipe Bryan</h3>
 <h3>&nbsp;About me </h3>
 
-- Exploring new techs and learning to be a Full Stack Web Developer<br>
+- Studying data science<br>
 - Web Developer Full Stack<br>
 - Learning Data Science
 - In my free time I like to watch to series and read about programming and Data science<br>

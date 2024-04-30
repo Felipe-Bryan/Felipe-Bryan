@@ -5,7 +5,6 @@
 
 - Studying data science<br>
 - Web Developer Full Stack<br>
-- Learning Data Science
 - In my free time I like to watch to series and read about programming and Data science<br>
 - I don't have professional experience in the technology area yet, but I have a lot of experience with sales<br>
 

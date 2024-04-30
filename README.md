@@ -4,10 +4,10 @@
 <h3>&nbsp;About me </h3>
 
 - Exploring new techs and learning to be a Full Stack Web Developer<br>
-- Studying Web Developer Full Stack at <a href="https://www.growdev.com.br/">Growdev</a>
-- Now learning about Front-End developing: HTML, CSS and JavaScript.<br>
-- In my free time I like to watch to series and read about programming <br>
-- I don't have professional experience in the technology area yet, but I have a lot of experience with sales <br>
+- Web Developer Full Stack<br>
+- Learning Data Science
+- In my free time I like to watch to series and read about programming and Data science<br>
+- I don't have professional experience in the technology area yet, but I have a lot of experience with sales<br>
 
 <h3>:rocket: &nbsp;My skills</h3>
 

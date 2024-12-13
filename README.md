@@ -57,7 +57,10 @@
 
 **Certifications**
 
-[Full Stack Web Developer - Growdev.pdf](https://github.com/Felipe-Bryan/Felipe-Bryan/files/15162745/Certificado.de.Participacao.-.Felipe.Bryan.Campos.de.Moraes.pdf)
+[Full Stack Web Developer - Growdev](https://github.com/Felipe-Bryan/Felipe-Bryan/files/15162745/Certificado.de.Participacao.-.Felipe.Bryan.Campos.de.Moraes.pdf)
+
+[Prisma ORM - Udemy](https://github.com/user-attachments/files/18132134/certificado-prisma.pdf)
+
 
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
